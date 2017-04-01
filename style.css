@@ -1,5 +1,5 @@
 body {
-    background-color: #ccf5f5;
+    background-image:url('https://media.giphy.com/media/mryR3W471uhuU/giphy.gif');
 }
 #gameholder {
     width: 600px;
@@ -33,6 +33,9 @@ body {
 .penguin2:hover {
     background-image:url('penguin_pngs/mound_2_hover.png');
     cursor: pointer;
+}
+.penguin2:active {
+    background-image:url('penguin_pngs/penguin_2.png');
 }
 .penguin3 {
     width: 200px;
